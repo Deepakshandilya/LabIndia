@@ -31,5 +31,5 @@ We welcome feedback and suggestions from users. Feel free to contact our LabIndi
 - Expand the product range and network of retailers and sellers.
 
 ## Disclaimer
-This repository contains the basic frontend design of the LabIndia project. The project is a work in progress, and updates will be made soon,
+This repository contains the basic frontend design of the LabIndia project. The project is a work in progress, and updates will be made soon.
 
